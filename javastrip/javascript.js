@@ -29,7 +29,7 @@ Existen dos tipos
 1. var=>Es una variable global que puede 
 ser utilizada en toda la vida del programa o todos los alcanze
 2. let=>Es una varible que se utilza en un parte 
-especifica de mi programa eso quieres decir que es una variable local
+especifica de mi programa eso quiere decir que es una variable local
 
 */
 var a
